@@ -44,3 +44,9 @@ It is designed as a portfolio project suitable for fresher-level data analytics 
 
 
 ## 📁 Repository Structure
+Stock-Market-SQL-Analysis/
+│
+├── queries.sql        # Contains all SQL queries used for analysis
+├── stocks.csv         # Kaggle dataset used for stock market analysis
+└── README.md          # Project documentation and overview
+
